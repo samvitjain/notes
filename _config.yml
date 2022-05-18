@@ -5,7 +5,7 @@ email: jain.samvit@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   books; quotes; blogs; 
 domain: samvitjain.github.io/notes/
-baseurl: /notes/ # the subpath of your site, e.g. /blog
+baseurl: /notes # the subpath of your site, e.g. /blog
 url: "https://samvitjain.github.io/notes/" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: iamsamvit
 github_username:  samvitjain
