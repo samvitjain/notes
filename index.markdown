@@ -5,6 +5,9 @@
 layout: page
 ---
 
-### Quotes
+- [books](https://notes.samvit.xyz/books.html)
+- [blogs](https://notes.samvit.xyz/blogs.html)
 
+
+Quotes
 - Discipline is doing what you hate to do but do it like you love it. - Mike Tyson.
