@@ -13,6 +13,9 @@ collections:
   books:
     output: true
     permalink: /:collection/:name
+  blogs:
+    output: true
+    permalink: /:collection/:name
 
 # Build settings
 theme: minima

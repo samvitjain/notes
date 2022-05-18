@@ -5,4 +5,6 @@
 layout: home
 ---
 
-## Samvit Jain 101010
+## Quotes
+
+- Discipline is doing what you hate to do but do it like you love it. - Mike Tyson.
