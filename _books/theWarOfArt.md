@@ -5,4 +5,4 @@ author: Steven Pressfield
 --- 
 
 
-- Internationally bestselling author of Last of the Amazons, Gates of Fire, and Tides of War, Steven Pressfield delivers a guide to inspire and support those who struggle to express their creativity. Pressfield believes that “resistance” is the greatest enemy, and he offers many unique and helpful ways to overcome it.
+- It may be that human race is not ready for freedom. The air of liberty may be too rarefied for us to breathe. Certainly I wouldn't be writing this book, on this subject, if living with freedom were easy. The paradox seems to be, as Socrates demostrated long ago, that the truly free individual is free only to the extent of his own self-mastery. While those who will not govern themselves are condemned to find masters to govern over them.
