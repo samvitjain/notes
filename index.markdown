@@ -5,9 +5,11 @@
 layout: page
 ---
 
-- [books](https://notes.samvit.xyz/books.html)
-- [blogs](https://notes.samvit.xyz/blogs.html)
 
 
 
-- Discipline is doing what you hate to do but do it like you love it. - Mike Tyson.
+- [Discipline is doing what you hate to do but do it like you love it.](https://www.youtube.com/watch?v=pkoXXJMMZlg) - Mike Tyson.
+
+- And those who were seen dancing were thought to be insane by those who could not hear the music. -Friedrich Nietzsche
+
+- Amateurs look for inspiration; the rest of us just get up and go to work. - Chuck Close
