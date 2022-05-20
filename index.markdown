@@ -13,3 +13,5 @@ layout: page
 - And those who were seen dancing were thought to be insane by those who could not hear the music. -Friedrich Nietzsche
 
 - Amateurs look for inspiration; the rest of us just get up and go to work. - Chuck Close
+
+- I was born not knowing and have only had a little time to change that here and there. - Richard Feynman
