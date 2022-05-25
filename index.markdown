@@ -15,3 +15,5 @@ layout: page
 - Amateurs look for inspiration; the rest of us just get up and go to work. - Chuck Close
 
 - I was born not knowing and have only had a little time to change that here and there. - Richard Feynman
+
+- “If you only wished to be happy, this could be easily accomplished; but we wish to be happier than other people, and this is always difficult, for we believe others to be happier than they are.” 
