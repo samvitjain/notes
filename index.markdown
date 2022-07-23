@@ -5,9 +5,6 @@
 layout: page
 ---
 
-
-
-
 - [Discipline is doing what you hate to do but do it like you love it.](https://www.youtube.com/watch?v=pkoXXJMMZlg) - Mike Tyson.
 
 - And those who were seen dancing were thought to be insane by those who could not hear the music. -Friedrich Nietzsche
@@ -16,4 +13,10 @@ layout: page
 
 - I was born not knowing and have only had a little time to change that here and there. - Richard Feynman
 
-- “If you only wished to be happy, this could be easily accomplished; but we wish to be happier than other people, and this is always difficult, for we believe others to be happier than they are.” 
+- “If you only wished to be happy, this could be easily accomplished; but we wish to be happier than other people, and this is always difficult, for we believe others to be happier than they are.”
+
+- The true voyage of discovery consists not of going to new places, but of having a new pair of eyes. - Marcel Proust.
+
+- The only kind of learning which significantly influences behavior is self-discovered or self-appropriated - truth that has been assimilated in experience.
+
+- In order to sleep, you pretend that you are sleeping.
